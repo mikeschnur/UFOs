@@ -1,4 +1,4 @@
-# UFOsb
+# UFOs
 
 ## Overview
 A request was made for a dynamic website that can display a table of UFO data that is pulled from a JavaScript array. The site displays this table along with the capability for the user to filter the UFO data based on multiple criteria. The site was created via HTML/CSS along with Bootstrap while the table was created through JavaScript.
